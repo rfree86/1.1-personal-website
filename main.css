@@ -1,0 +1,30 @@
+html{
+  background-image: url(background-texture.jpg);
+  background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+h1 {text-align: center;
+  color: gray;
+font-family: monospace;
+}
+h2 {
+  text-align: center;
+  color: gray;
+font-family: monospace;
+}
+.link-list {
+text-align: center;
+}
+.nav-link{
+
+  display: inline;
+  width: 60px;
+  margin-left: 30px;
+  text-align: center;
+  color: gray;
+  font-size: 120%;
+  font-weight: bold;
+
+
+}
