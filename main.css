@@ -1,5 +1,5 @@
 html{
-  background-image: url(background-texture.jpg);
+  background-image: url(./background-texture.jpg);
   background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
@@ -15,11 +15,13 @@ font-family: monospace;
 }
 .link-list {
 text-align: center;
+margin-top: 200px;
+
 }
 .nav-link{
 
   display: inline;
-  width: 60px;
+  width: 100px;
   margin-left: 30px;
   text-align: center;
   color: gray;
